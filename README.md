@@ -33,14 +33,14 @@ Proponemos un espacio de intercambio de ideas sin ánimos de lucro y colaboraci�
 
 ## Participantes del Proyecto:
 
-⋅⋅* Mariano Zimerman 
-⋅⋅* Dan Etenberg
-⋅⋅* Pablo Vattuone
-⋅⋅* Juan Ignacio Bousquet 
-⋅⋅* Federico Kirschbaum
-⋅⋅* Guillermo Castelli
-⋅⋅* Ana Zapiola
-⋅⋅* Ing. Gastón Farias Bouvier
-⋅⋅* Alejandro Sarra
-⋅⋅* Ignacio Loncon
+* Mariano Zimerman 
+* Dan Etenberg
+* Pablo Vattuone
+* Juan Ignacio Bousquet 
+* Federico Kirschbaum
+* Guillermo Castelli
+* Ana Zapiola
+* Ing. Gastón Farias Bouvier
+* Alejandro Sarra
+* Ignacio Loncon
 
