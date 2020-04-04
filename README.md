@@ -5,12 +5,10 @@ Provisión de máscaras y un molde de Inyección Open-Source para la fabricació
 
  [pdf Resumen Ejecutivo](https://github.com/TechCXOs-COVID19/TechCXOs-Covid-Mascaras-GitHub/blob/master/Mascaras%20Publico%20TechCXOs%20-%20COVID19%20V2.pdf)
 
- ![v81](https://github.com/TechCXOs-COVID19/TechCXOs-Covid-Mascaras-GitHub/blob/master/Imagenes/V8%20Final%20(1).jpeg)
- ![v82](https://github.com/TechCXOs-COVID19/TechCXOs-Covid-Mascaras-GitHub/blob/master/Imagenes/V8%20Final%20(2).jpeg) 
- ![V83](https://github.com/TechCXOs-COVID19/TechCXOs-Covid-Mascaras-GitHub/blob/master/Imagenes/V8%20Final%20(3).jpeg)
-   
+ ![vbanner](https://github.com/TechCXOs-COVID19/TechCXOs-Covid-Mascaras-GitHub/blob/master/Imagenes/banner.PNG)
+
   ## Archivo STEP para Impresión Modelo inyeción (3hs)
- [Modelo STL para Inyeccion](https://github.com/TechCXOs-COVID19/TechCXOs-Covid-Mascaras-GitHub/blob/master/Modelo%20STL/20200404_Faceshield_V5.STEP)
+ [Modelo STL para Inyeccion](https://github.com/TechCXOs-COVID19/TechCXOs-Covid-Mascaras-GitHub/blob/master/Modelo%20STEP/20200403_Faceshield_V8.STEP)
  
  Detalle Prueba Modelo Inyeccion - Impreso 3D
  ![Modelo](https://github.com/TechCXOs-COVID19/TechCXOs-Covid-Mascaras-GitHub/blob/master/Imagenes/Prototipo%20pre%20molde%2002%2004%202020%20(1).jpeg)
