@@ -14,7 +14,8 @@ Provisión de máscaras y un molde de Inyección Open-Source para la fabricació
  ![vbanner](https://github.com/TechCXOs-COVID19/TechCXOs-Covid-Mascaras-GitHub/blob/master/Imagenes/banner2.PNG)
  
   ## Archivo STL para Impresión 3D (45 min)
- WIP
+
+[GitHub Juanibuqt](https://github.com/juanibuqt/covid19-resources)
  
   ## Test Ergonomico
   ![TestErgo](https://github.com/TechCXOs-COVID19/TechCXOs-Covid-Mascaras-GitHub/blob/master/Imagenes/GIF-2020-04-03-20-41-11.gif)
