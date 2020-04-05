@@ -5,16 +5,18 @@ Provisión de máscaras y un molde de Inyección Open-Source para la fabricació
 
  [pdf Resumen Ejecutivo](https://github.com/TechCXOs-COVID19/TechCXOs-Covid-Mascaras-GitHub/blob/master/Mascaras%20Publico%20TechCXOs%20-%20COVID19%20V2.pdf)
  
- | Costo Aproximado Materiales + Mano de Obra     |  	Precio +IVA          |
+ | Costo Aproximado Materiales + Mano de Obra     |  	Precio Pesos Argentina +IVA          |
 | ------------- |:-------------:| 
 |Vincha sola     |  	$28.13 |
 |Kit terminado (Vincha, Protector PET Cristal, Goma)  | $69.70 | 
 | Kit terminado privado (buy one give one)| 	$139.40  |  
 
+ [Excel con Costeo y Datos Proveedores](https://github.com/TechCXOs-COVID19/TechCXOs-Covid-Mascaras-GitHub/blob/master/Mascaras%20Publico%20TechCXOs%20-%20COVID19%20V2.pdf)
  
 
  ![vbanner](https://github.com/TechCXOs-COVID19/TechCXOs-Covid-Mascaras-GitHub/blob/master/Imagenes/banner.PNG)
-
+ 
+ 
   ## Archivo STEP para Impresión Modelo inyeción (3hs)
  [Modelo STL para Inyeccion](https://github.com/TechCXOs-COVID19/TechCXOs-Covid-Mascaras-GitHub/blob/master/Modelo%20STEP/20200403_Faceshield_V8.STEP)
  
