@@ -17,7 +17,10 @@ Provisión de máscaras y un molde de Inyección Open-Source para la fabricació
  ![vbanner](https://github.com/TechCXOs-COVID19/TechCXOs-Covid-Mascaras-GitHub/blob/master/Imagenes/banner.PNG)
  
  
-  ## Archivo STEP para Impresión Modelo inyeción (3hs)
+  ## Archivo STEP para Impresión Modelo inyección 
+  
+  > Este es el modelo V8, actualmente estamos en la version V12. Te recomendamos entrar en contacto con nosotros para poder coordinar detalles tecnicos en caso de tener capacidades de matriceria
+  
  [Modelo STL para Inyeccion](https://github.com/TechCXOs-COVID19/TechCXOs-Covid-Mascaras-GitHub/blob/master/Modelo%20STEP/20200403_Faceshield_V8.STEP)
  
  Detalle Prueba Modelo Inyeccion - Impreso 3D
