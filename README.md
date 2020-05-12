@@ -3,40 +3,15 @@
  
 Provisión de máscaras y un molde de Inyección Open-Source para la fabricación de elementos de protección facial para equipos de salud (EPP) en alta escala. 
 
- [pdf Resumen Ejecutivo](https://github.com/TechCXOs-COVID19/TechCXOs-Covid-Mascaras-GitHub/blob/master/Mascaras%20Publico%20TechCXOs%20-%20COVID19%20V2.pdf)
- 
- | Costo Aproximado Materiales + Mano de Obra     |  	Precio Pesos Argentina +IVA          |
-| ------------- |:-------------:| 
-|Vincha sola     |  	$28.13 |
-|Kit terminado (Vincha, Protector PET Cristal, Goma)  | $69.70 | 
-| Kit terminado privado (buy one give one)| 	$139.40  |  
 
- [Excel con Costeo y Datos Proveedores](https://github.com/TechCXOs-COVID19/TechCXOs-Covid-Mascaras-GitHub/blob/master/Mascaras%20Publico%20TechCXOs%20-%20COVID19%20V2.pdf)
- 
+www.milesdemascaras.org
 
- ![vbanner](https://github.com/TechCXOs-COVID19/TechCXOs-Covid-Mascaras-GitHub/blob/master/Imagenes/banner.PNG)
- 
- 
-  ## Archivo STEP para Impresión Modelo inyección 
-  
-  > Este es el modelo V8, actualmente estamos en la version V12. Te recomendamos entrar en contacto con nosotros para poder coordinar detalles tecnicos en caso de tener capacidades de matriceria
-  
- [Modelo STL para Inyeccion](https://github.com/TechCXOs-COVID19/TechCXOs-Covid-Mascaras-GitHub/blob/master/Modelo%20STEP/20200403_Faceshield_V8.STEP)
- 
- Detalle Prueba Modelo Inyeccion - Impreso 3D
- ![vbanner](https://github.com/TechCXOs-COVID19/TechCXOs-Covid-Mascaras-GitHub/blob/master/Imagenes/banner2.PNG)
- 
-  ### Opcion Maker: Alternativa Diseño archivo STL para Impresión 3D (45 min)
 
-[GitHub Juanibuqt](https://github.com/juanibuqt/covid19-resources)
+![vbanner](https://github.com/TechCXOs-COVID19/TechCXOs-Covid-Mascaras-GitHub/blob/master/Imagenes/banner.PNG)
  
-  ## Test Ergonomico
+## Test Ergonomico
   ![TestErgo](https://github.com/TechCXOs-COVID19/TechCXOs-Covid-Mascaras-GitHub/blob/master/Imagenes/GIF-2020-04-03-20-41-11.gif)
- 
- 
- ## Doná una mascara
 
-Boton MP >>>
 
 ## ¿Quienes somos? - TechCXOs-Covid-GitHub-Mascara-de-Proteccion-Personal
 Somos un grupo de personas autoconvocadas, que trabaja diariamente en el ambiente de la tecnología, con ganas de hacer y preocupados por el futuro de nuestro país en el contexto de la pandemia.
