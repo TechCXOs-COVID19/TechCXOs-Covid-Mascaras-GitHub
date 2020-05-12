@@ -1,11 +1,8 @@
 # TechCXOs-Covid-GitHub-Mascara-de-Proteccion-Personal
- TechCXOs-Covid-GitHub-Mascara-de-Proteccion-Personal
+
+Informacion del proyecto en: www.milesdemascaras.org
  
 Provisión de máscaras y un molde de Inyección Open-Source para la fabricación de elementos de protección facial para equipos de salud (EPP) en alta escala. 
-
-
-www.milesdemascaras.org
-
 
 ![vbanner](https://github.com/TechCXOs-COVID19/TechCXOs-Covid-Mascaras-GitHub/blob/master/Imagenes/banner.PNG)
  
