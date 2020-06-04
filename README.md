@@ -1,19 +1,26 @@
-# TechCXOs-Covid-GitHub-Mascara-de-Proteccion-Personal
+# Miles de Mascaras 
 
-Informacion del proyecto en: www.milesdemascaras.org
- 
 ProvisiÃ³n de mÃ¡scaras y un molde de InyecciÃ³n Open-Source para la fabricaciÃ³n de elementos de protecciÃ³n facial para equipos de salud (EPP) en alta escala. 
 
 ![vbanner](https://github.com/TechCXOs-COVID19/TechCXOs-Covid-Mascaras-GitHub/blob/master/Imagenes/banner.PNG)
  
-## Test Ergonomico
-  ![TestErgo](https://github.com/TechCXOs-COVID19/TechCXOs-Covid-Mascaras-GitHub/blob/master/Imagenes/GIF-2020-04-03-20-41-11.gif)
+## Â¿Quienes somos? 
 
+Somos un grupo de emprendedores y profesionales argentinos que nos unimos para idear una solución industrial que permita producir la mayor cantidad de máscaras en el menor tiempo posible y a bajo costo, ante la pandemia del COVID-19. 
 
-## Â¿Quienes somos? - TechCXOs-Covid-GitHub-Mascara-de-Proteccion-Personal
-Somos un grupo de personas autoconvocadas, que trabaja diariamente en el ambiente de la tecnologÃ­a, con ganas de hacer y preocupados por el futuro de nuestro paÃ­s en el contexto de la pandemia.
+Así decidimos crear Miles de Máscaras, una iniciativa sin fines de lucro basada en tres principios:
 
-Proponemos un espacio de intercambio de ideas sin Ã¡nimos de lucro y colaboraciÃ³n con el objetivo de generar resultados enfocados en la protecciÃ³n del sistema de salud y la provisiÃ³n de herramientas para un recupero rÃ¡pido de la economÃ­a Argentina.
+Compartir
+
+Ofrecemos de manera gratuita la matriz de inyección que diseñamos a fabricantes de todo el país para producir una máscara de calidad, resistente y segura.
+
+Donar
+
+Ofrecemos de manera gratuita la máscara para instituciones públicas de salud. Para lograrlo, la Cooperadora de Acción Social (COAS) funciona como ente recaudador de donaciones de particulares y empresas interesadas en colaborar.
+
+Abastecer
+
+Aspiramos a que la mayor cantidad de fabricantes del país puedan producir máscaras para llegar a todas las personas que necesiten elementos de protección facial.
 
 ## Participantes del Proyecto:
 
@@ -27,4 +34,7 @@ Proponemos un espacio de intercambio de ideas sin Ã¡nimos de lucro y colaboraciÃ
 * Ing. GastÃ³n Farias Bouvier
 * Alejandro Sarra
 * Ignacio Loncon
+* Leticia Guolo
+* Lucia Fernandez Nuñez
 
++ Informacion del proyecto en www.milesdemascaras.org
