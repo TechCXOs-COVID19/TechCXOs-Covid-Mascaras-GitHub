@@ -28,18 +28,18 @@ Aspiramos a que la mayor cantidad de fabricantes del país puedan producir másc
 
 ## Participantes del Proyecto:
 
-* Mariano Zimerman 
-* Dan Etenberg
+* [Mariano Zimerman](https://www.linkedin.com/in/mariano-zimerman-4b807234/) 
+* [Dan Etenberg](https://www.linkedin.com/in/dan-etenberg-1478604b/)
 * Pablo Vattuone
-* Juan Ignacio Bousquet 
-* Federico Kirschbaum
-* Guillermo Castelli
-* Ana Zapiola
-* Ing. Gastón Farias Bouvier
-* Alejandro Sarra
-* Ignacio Loncon
-* Leticia Guolo
-* Lucia Fernandez Nuñez
+* [Juan Ignacio Bousquet](https://www.linkedin.com/in/juanibousquet/)
+* [Federico Kirschbaum](https://www.linkedin.com/in/fedek/)
+* [Guillermo Castelli](https://www.linkedin.com/in/guillermo-castelli/)
+* [Ana Zapiola](https://www.linkedin.com/in/ana-zapiola-02190328/)
+* [Ing. Gastón Farias Bouvier](https://www.linkedin.com/in/gaston-farias-bouvier/)
+* [Alejandro Sarra](https://www.linkedin.com/in/alesarra/)
+* [Ignacio Loncon](https://www.linkedin.com/in/ignacio-loncon/)
+* [Leticia Guolo](https://www.linkedin.com/in/leticiaguolo/)
+* [Lucia Fernandez Nuñez](https://www.linkedin.com/in/lfernandeznunez/)
 
 # FAQ 
 
