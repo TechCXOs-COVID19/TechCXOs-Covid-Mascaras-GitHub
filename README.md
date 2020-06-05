@@ -14,15 +14,15 @@ Somos un grupo de emprendedores y profesionales argentinos que nos unimos para i
 
 Así decidimos crear Miles de Máscaras, una iniciativa sin fines de lucro basada en tres principios:
 
-### Compartir
+- ### Compartir
 
 Ofrecemos de manera gratuita la matriz de inyección que diseñamos a fabricantes de todo el país para producir una máscara de calidad, resistente y segura.
 
-### Donar
+- ### Donar
 
 Ofrecemos de manera gratuita la máscara para instituciones públicas de salud. Para lograrlo, la Cooperadora de Acción Social (COAS) funciona como ente recaudador de donaciones de particulares y empresas interesadas en colaborar.
 
-### Abastecer
+- ### Abastecer
 
 Aspiramos a que la mayor cantidad de fabricantes del país puedan producir máscaras para llegar a todas las personas que necesiten elementos de protección facial.
 
@@ -41,4 +41,25 @@ Aspiramos a que la mayor cantidad de fabricantes del país puedan producir másc
 * Leticia Guolo
 * Lucia Fernandez Nuñez
 
-Para más informacion del proyecto: www.milesdemascaras.org
+# FAQ 
+
+## Quiero donar, como puedo hacer?
+
+COAS nos suma a su campaña “AYUDANDO TE AYUDÁS”, potenciando nuestra iniciativa de producir al costo máscaras de protección facial para donarlas a instituciones públicas de salud. Juntos enfrentamos al COVID19.
+
+Para mas información sobre cómo colaborar donando, [hace click acá](https://www.coas.org.ar/ayudando-mascaras/)
+
+## Somos una institución pública y necesitamos mascaras, donde podemos pedir?
+
+En caso de que trabajes, representes o dirijas una institución pública, podes realizar un pedido de máscaras através del siguiente [link](https://docs.google.com/forms/d/e/1FAIpQLScX9v5mfaQghi6SeaGs39jWlvuX-dl4iEash93srWeBC4zOsA/viewform).
+
+## Somos una empresa de inyección plástica o tenemos la capacidad de producir la máscara, donde podemos bajar los diseños del modelo y de la matriz?
+
+El proyecto es open-source y todos los diseños de los inyectables, frente y matriz son libres de uso.
+Incentivamos a quienes puedan llevar adelante su producción, lo hagan para ayudarnos a llegar a mas gente que pueda necesitarla.
+
+Todos los archivos se encuentran en este repositorio de github.
+
+## Para más informacion sobre el proyecto 
+
+www.milesdemascaras.org
