@@ -1,26 +1,30 @@
-# Miles de Mascaras 
+# MilesdeMascaras - Sobre el proyecto
 
-Provisión de máscaras y un molde de Inyección Open-Source para la fabricación de elementos de protección facial para equipos de salud (EPP) en alta escala. 
+Debido a la enorme necesidad de equipamientos de protección para personal de salud ante la pandemia de COVID-19 e inspirados por la campaña de producción de mascarillas de impresión 3D, un grupo de emprendedores nos unimos para buscar una solución industrial para producir una mayor cantidad de máscaras en menos tiempo y a más bajo costo.
+
+Fabricamos un molde con el objetivo inicial de producir 100.000 máscaras.
+
+Ofrecemos el diseño de nuestra matriz de libre acceso para que pueda replicarse, mejorarse y producirse en fábricas de todo el país y el mundo. 
 
 ![vbanner](https://github.com/TechCXOs-COVID19/TechCXOs-Covid-Mascaras-GitHub/blob/master/Imagenes/banner.PNG)
  
 ## ¿Quienes somos? 
 
-Somos un grupo de emprendedores y profesionales argentinos que nos unimos para idear una soluci�n industrial que permita producir la mayor cantidad de m�scaras en el menor tiempo posible y a bajo costo, ante la pandemia del COVID-19. 
+Somos un grupo de emprendedores y profesionales argentinos que nos unimos para idear una solución industrial que permita producir la mayor cantidad de máscaras en el menor tiempo posible y a bajo costo, ante la pandemia del COVID-19. 
 
-As� decidimos crear Miles de M�scaras, una iniciativa sin fines de lucro basada en tres principios:
+Así decidimos crear Miles de Máscaras, una iniciativa sin fines de lucro basada en tres principios:
 
-Compartir
+### Compartir
 
-Ofrecemos de manera gratuita la matriz de inyecci�n que dise�amos a fabricantes de todo el pa�s para producir una m�scara de calidad, resistente y segura.
+Ofrecemos de manera gratuita la matriz de inyección que diseñamos a fabricantes de todo el país para producir una máscara de calidad, resistente y segura.
 
-Donar
+### Donar
 
-Ofrecemos de manera gratuita la m�scara para instituciones p�blicas de salud. Para lograrlo, la Cooperadora de Acci�n Social (COAS) funciona como ente recaudador de donaciones de particulares y empresas interesadas en colaborar.
+Ofrecemos de manera gratuita la máscara para instituciones públicas de salud. Para lograrlo, la Cooperadora de Acción Social (COAS) funciona como ente recaudador de donaciones de particulares y empresas interesadas en colaborar.
 
-Abastecer
+### Abastecer
 
-Aspiramos a que la mayor cantidad de fabricantes del pa�s puedan producir m�scaras para llegar a todas las personas que necesiten elementos de protecci�n facial.
+Aspiramos a que la mayor cantidad de fabricantes del país puedan producir máscaras para llegar a todas las personas que necesiten elementos de protección facial.
 
 ## Participantes del Proyecto:
 
@@ -31,10 +35,10 @@ Aspiramos a que la mayor cantidad de fabricantes del pa�s puedan producir m�scar
 * Federico Kirschbaum
 * Guillermo Castelli
 * Ana Zapiola
-* Ing. Gastón Farias Bouvier
+* Ing. GastÃ³n Farias Bouvier
 * Alejandro Sarra
 * Ignacio Loncon
 * Leticia Guolo
-* Lucia Fernandez Nu�ez
+* Lucia Fernandez Nuñez
 
-+ Informacion del proyecto en www.milesdemascaras.org
+Para más informacion del proyecto: www.milesdemascaras.org
