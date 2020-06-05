@@ -58,7 +58,16 @@ En caso de que trabajes, representes o dirijas una institución pública, podes 
 El proyecto es open-source y todos los diseños de los inyectables, frente y matriz son libres de uso.
 Incentivamos a quienes puedan llevar adelante su producción, lo hagan para ayudarnos a llegar a mas gente que pueda necesitarla.
 
-Todos los archivos se encuentran en este repositorio de github.
+Todos los archivos se encuentran en el repositorio de github:
+
+- [Molde de Matriz de Inyección](https://github.com/TechCXOs-COVID19/TechCXOs-Covid-Mascaras-GitHub/tree/master/Matriz%20Inyeccion)
+- [Prototipo de i3D](https://github.com/TechCXOs-COVID19/TechCXOs-Covid-Mascaras-GitHub/tree/master/Prototipado%20i3D)
+- [Frente PET](https://github.com/TechCXOs-COVID19/TechCXOs-Covid-Mascaras-GitHub/tree/master/Frente%20PET)
+- [Manual de Usuario](https://github.com/TechCXOs-COVID19/TechCXOs-Covid-Mascaras-GitHub/tree/master/Manuales)
+
+## Cuáles son las características del diseño, costos, dimensiones y detalles más técnicos de la máscara?
+
+Todos los detalles técnicos de la máscara podés encontrarlos en el siguiente [link](https://www.milesdemascaras.org/mascara-de-proteccion-facial-detalles) y también generamos un [brief de diseño](https://github.com/TechCXOs-COVID19/TechCXOs-Covid-Mascaras-GitHub/blob/master/MilesDeMascaras%20-%20Brief%20Dise%C3%B1o.pdf) con un resumen del todo lo anterior.
 
 ## Para más informacion sobre el proyecto 
 
