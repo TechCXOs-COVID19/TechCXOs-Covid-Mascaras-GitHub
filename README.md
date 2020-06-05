@@ -69,6 +69,7 @@ Todos los archivos se encuentran en el repositorio de github:
 
 Todos los detalles técnicos de la máscara podés encontrarlos en el siguiente [link](https://www.milesdemascaras.org/mascara-de-proteccion-facial-detalles) y también generamos un [brief de diseño](https://github.com/TechCXOs-COVID19/TechCXOs-Covid-Mascaras-GitHub/blob/master/MilesDeMascaras%20-%20Brief%20Dise%C3%B1o.pdf) con un resumen del todo lo anterior.
 
-## Para más informacion sobre el proyecto 
+## Para más informacion o consultas sobre el proyecto 
 
 www.milesdemascaras.org
+milesdemascaras@gmail.com
