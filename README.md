@@ -28,7 +28,7 @@ Aspiramos a que la mayor cantidad de fabricantes del país puedan producir másc
 
 Somos un grupo de emprendedores y profesionales argentinos que nos unimos para idear una solución industrial que permita producir la mayor cantidad de máscaras en el menor tiempo posible y a bajo costo, ante la pandemia del COVID-19. 
 
-## Participantes del Proyecto:
+### Participantes del Proyecto:
 
 * [Mariano Zimerman](https://www.linkedin.com/in/mariano-zimerman-4b807234/) 
 * [Dan Etenberg](https://www.linkedin.com/in/dan-etenberg-1478604b/)
