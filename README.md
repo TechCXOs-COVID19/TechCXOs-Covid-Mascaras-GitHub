@@ -6,7 +6,7 @@ Fabricamos un molde con el objetivo inicial de producir 100.000 máscaras.
 
 Ofrecemos el diseño de nuestra matriz de libre acceso para que pueda replicarse, mejorarse y producirse en fábricas de todo el país y el mundo. 
 
-![vbanner](https://github.com/TechCXOs-COVID19/TechCXOs-Covid-Mascaras-GitHub/blob/master/Imagenes/banner.PNG)
+![vbanner](https://github.com/TechCXOs-COVID19/TechCXOs-Covid-Mascaras-GitHub/blob/master/Renders/MDM_Use.jpg)
  
 ## ¿Quienes somos? 
 
@@ -35,7 +35,7 @@ Aspiramos a que la mayor cantidad de fabricantes del país puedan producir másc
 * Federico Kirschbaum
 * Guillermo Castelli
 * Ana Zapiola
-* Ing. GastÃ³n Farias Bouvier
+* Ing. Gastón Farias Bouvier
 * Alejandro Sarra
 * Ignacio Loncon
 * Leticia Guolo
