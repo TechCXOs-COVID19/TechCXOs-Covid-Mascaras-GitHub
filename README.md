@@ -1,4 +1,6 @@
-# MilesdeMascaras - Sobre el proyecto
+# MilesdeMascaras
+
+## Sobre el proyecto
 
 Debido a la enorme necesidad de equipamientos de protección para personal de salud ante la pandemia de COVID-19 e inspirados por la campaña de producción de mascarillas de impresión 3D, un grupo de emprendedores nos unimos para buscar una solución industrial para producir una mayor cantidad de máscaras en menos tiempo y a más bajo costo.
 
